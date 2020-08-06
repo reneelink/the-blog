@@ -32,7 +32,7 @@ blogdown::shortcode("figure", src = "/post/first-post_files/outside_looking_in.j
 ```
 
 
-And then there was the (perceived - probably reflecting my own insecurities) judgment. The message I was getting was that if you weren't co-creating your syllabus with your students, getting rid of assignment deadlines, or letting students decide what they wanted to learn, then you weren't doing enough to support your students. I can't count the number of times I yelled at my phone, "But HOW do I do that with a thousand students!?!" To their credit, anytime I decided to interact with a well-known person from this crowd and bring up a concern , the response I received was gracious and kind. Here's an example about trying to find ways to move organic chemistry labs online as we all went into panedemic lockdown.
+And then there was the (perceived - probably reflecting my own insecurities) judgment. The message I was getting was that if you weren't co-creating your syllabus with your students, getting rid of assignment deadlines, or letting students decide what they wanted to learn, then you weren't doing enough to support your students. I can't count the number of times I yelled at my phone, "But HOW do I do that with a thousand students!?!" To their credit, anytime I decided to interact with a well-known person from this crowd and bring up a concern, the response I received was gracious and kind. Here's an example about trying to find ways to move organic chemistry labs online as we all went into panedemic lockdown.
 
 ```{r echo=FALSE}
 blogdown::shortcode('tweet', '1239717886794457089')
